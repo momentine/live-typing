@@ -8,5 +8,5 @@
 
 1. Clone the repository using `git clone`
 2. Install the npm packages using `npm install package.json`
-3. Update the `case_indicator` variable in `script.js` (0: no indicator, 1: is typing, 2: live typing, 3: # typing)
+3. Update the `case_indicator` variable in `script.js` (chat: no indicator, chat1: is typing, chat2: live typing, chat3: # typing)
 4. Run the file using `node server.js`
